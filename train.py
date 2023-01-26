@@ -118,4 +118,3 @@ if epoch_init < Config.max_iters: # continue training
                 'train_losses': train_losess}, 
                 os.path.join(path, Config.model_name))
 print("Done....")
-exit()
