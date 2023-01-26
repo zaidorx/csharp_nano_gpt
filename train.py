@@ -38,7 +38,7 @@ def estimate_loss():
 stop_trainig = False #solo para modo debug, para parar el entrenamiento.
 def stop_trainig_loop():
     global stop_trainig
-    print("Stoping....")
+    print("Stopping....")
     stop_trainig = True
 
 # Train and test splits
