@@ -24,3 +24,6 @@ Predict.py is just that, a small script to load the model and generate some code
 
 # Encoder
 In the original lecture Karpathy'd implemented a simple encoder/decoder but suggested that we try out sentencepiece, tiktoken or any other. This projects use tiktoken from OpenAI.
+
+ #Extra
+ There is a keyboard hot-key (ctrl+s) that will, gracefully, stop training and save latest model.
